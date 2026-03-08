@@ -1,12 +1,14 @@
 # Python
 __pycache__/
-.env
 *.pyc
+*.pyo
+.env
+venv/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (raw files can be large)
+# Data
 data/*.csv
 
 # VS Code

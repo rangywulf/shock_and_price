@@ -1,6 +1,10 @@
 # Key Findings
 ## Shock & Price: How Geopolitical Crises Move Global Oil Markets
 
+## Live Dashboards
+- [Dashboard 1: The History](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/History)
+- [Dashboard 2: Iran 2026](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
+
 ### The Central Question
 When geopolitical crises hit, how fast and how far do oil prices spike, 
 and does it last? Using 30 years of daily Brent crude data and 8 major 
@@ -27,6 +31,8 @@ The right column tells the real story. Iraq and 9/11 barely moved markets
 because there was no supply disruption. A shock that closes a chokepoint 
 is a different beast entirely.
 
+[View the full 30 year timeline and Magnitude vs Speed chart on Dashboard 1](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/History)
+
 ---
 
 ### Finding 2: The Strait of Hormuz Changes Everything
@@ -46,6 +52,8 @@ between the Prolonged Disruption (~$100) and Escalation (~$145) scenarios.
 The critical question is whether the partial transit corridor opened on 
 March 9 holds. If it does, prices may stabilize near $95. If it collapses, 
 the Escalation trajectory toward $145 becomes the base case.
+
+[View the Iran 2026 Scenario Projections on Dashboard 2](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
 
 ---
 
@@ -69,6 +77,8 @@ Major producers largely insulated from supply shortage. Note that US
 consumers still face pump price increases from global price contagion 
 despite domestic production buffers.
 
+[View the Country Vulnerability Map on Dashboard 2](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
+
 ---
 
 ### Finding 5: Markets Price in Risk Before the Trigger
@@ -76,6 +86,8 @@ Looking at the 90 day pre-event window across all 8 events, prices were
 already moving in the 30 days before most events. This suggests markets 
 price in geopolitical risk before the official trigger date, meaning the 
 true cost of a crisis begins before the first headline.
+
+[View the Event Overlay Chart on Dashboard 1](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/History)
 
 ---
 
@@ -88,6 +100,6 @@ not short term price sensitivity.
 
 Data reflects EIA prices through March 9, 2026. This project was built 
 during the active conflict period and represents a snapshot analysis 
-rather than a live tracker. 
+rather than a live tracker.
 
 Last updated: March 9, 2026.

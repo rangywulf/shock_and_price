@@ -2,7 +2,7 @@
 
 **Project:** Geopolitical Crises and Oil Markets, 1993-2026
 **Author:** Jessica Stubbs
-**Last Updated:** March 18, 2026
+**Last Updated:** March 19, 2026
 
 ---
 
@@ -36,6 +36,8 @@ of the Strait of Hormuz, through which 20% of global oil and LNG flows daily.
 | Fastest spike | Iran 2026, peak in 4 days |
 | Previous record | Ukraine 2022, peak in 12 days |
 | Brent peak | $95.74 on March 6, 2026 |
+| Latest Brent price | $101.04 on March 16, 2026 |
+| US retail gas (week of Mar 16) | $3.72/gallon |
 | Most vulnerable countries | South Korea, Japan, Pakistan, Taiwan, Singapore |
 | Weeks for Brent to reach the pump | 1 week (r = 0.54 at lag 1) |
 | Most expensive gas in real terms | 2008, not 2026 |
@@ -44,11 +46,12 @@ of the Strait of Hormuz, through which 20% of global oil and LNG flows daily.
 
 ## What the Data Shows Right Now
 
-As of March 11, 2026 prices have pulled back slightly from the $95.74 peak 
-but remain well above pre-conflict levels. The quick resolution scenario is 
-already ruled out by the data. Prices are tracking between prolonged 
-disruption (~$100) and escalation (~$145). The new Supreme Leader has vowed 
-to keep the Strait of Hormuz closed until the war ends.
+As of March 16, 2026 Brent crude has crossed $100 for the first time since 
+the conflict began, closing at $101.04 and entering Prolonged Disruption 
+territory. The quick resolution scenario is already ruled out by the data. 
+The new Supreme Leader has vowed to keep the Strait of Hormuz closed until 
+the war ends, and wave attacks on shipping on March 11 confirmed the 
+disruption is far from over.
 
 ---
 

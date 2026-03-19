@@ -44,14 +44,16 @@ no alternative route for most of this volume.
 ---
 
 ### Finding 3: Scenario A is Already Off the Table
-As of March 9, 2026, actual Brent prices peaked at $95.74 on Day 4 before 
-pulling back slightly to $94.35. The Quick Resolution scenario (prices 
-retreating to $68) is already falsified by the data. Prices are tracking 
-between the Prolonged Disruption (~$100) and Escalation (~$145) scenarios.
+As of March 11, 2026, actual Brent prices peaked at $95.74 on Day 4 before 
+pulling back to $89.84 on March 10, then edging back up to $90.98 on March 11. 
+The Quick Resolution scenario (prices retreating to $68) is already falsified 
+by the data. Prices are tracking between the Prolonged Disruption (~$100) and 
+Escalation (~$145) scenarios.
 
-The critical question is whether the partial transit corridor opened on 
-March 9 holds. If it does, prices may stabilize near $95. If it collapses, 
-the Escalation trajectory toward $145 becomes the base case.
+The partial transit corridor opened on March 9 produced a brief pullback, 
+but wave attacks on at least 3 vessels on March 11 and the new Supreme 
+Leader's vow to keep Hormuz closed until the war ends suggest the disruption 
+is far from over.
 
 [View the Iran 2026 Scenario Projections on Dashboard 2](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
 
@@ -91,15 +93,35 @@ true cost of a crisis begins before the first headline.
 
 ---
 
+### Finding 6: Brent Price Changes Take One Week to Reach the Pump
+Lag correlation analysis across 1,719 weekly observations shows that the 
+correlation between Brent and US retail gasoline price changes jumps from 
+0.21 at zero lag to 0.54 at a one-week lag, then drops off sharply. 
+
+When oil prices spike, expect to feel it at the gas station the following 
+week, not the same day.
+
+---
+
+### Finding 7: In Real Terms, 2008 Was Worse Than 2026
+Adjusting US retail gasoline prices to February 2026 dollars, the 2008 
+financial crisis peak of ~$4.11/gallon equals nearly $5.00 in today's money. 
+The Iran 2026 spike has not yet approached that level in real purchasing 
+power terms. When people say gas prices are at historic highs, the data 
+says otherwise.
+
+---
+
 ### Methodology Note
 Event study analysis normalizes prices to 100 at the event date, allowing 
 direct comparison across different price environments. Scenario projections 
 are calibrated from historical events rather than assumed speeds. Country 
 vulnerability scores are composite indices and represent structural exposure, 
-not short term price sensitivity.
+not short term price sensitivity. Inflation adjustment uses monthly CPI from 
+FRED with February 2026 as the base period.
 
-Data reflects EIA prices through March 9, 2026. This project was built 
+Data reflects EIA prices through March 11, 2026. This project was built 
 during the active conflict period and represents a snapshot analysis 
 rather than a live tracker.
 
-Last updated: March 9, 2026.
+Last updated: March 18, 2026.

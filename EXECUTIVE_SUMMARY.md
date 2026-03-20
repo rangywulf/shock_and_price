@@ -69,5 +69,7 @@ disruption is far from over.
 
 - [Dashboard 1: The History](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/History)
 - [Dashboard 2: Iran 2026](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
+- [Dashboard 3: At the Pump](https://public.tableau.com/views/ShockOilPrices/AtthePump)
 - [Full Findings](FINDINGS.md)
 - [GitHub Repository](https://github.com/rangywulf/shock_and_price)
+- [Your Gas Bill Is a War Report](https://medium.com/@jxdata/your-gas-bill-is-a-war-report-e4db8988af9b) — Medium article covering 30 years of oil price data, the per-president analysis, and the Brent-to-pump lag finding

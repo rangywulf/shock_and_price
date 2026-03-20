@@ -4,6 +4,7 @@
 ## Live Dashboards
 - [Dashboard 1: The History](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/History)
 - [Dashboard 2: Iran 2026](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
+- [Dashboard 3: At the Pump](https://public.tableau.com/views/ShockOilPrices/AtthePump)
 
 ### The Central Question
 When geopolitical crises hit, how fast and how far do oil prices spike, 
@@ -109,6 +110,8 @@ financial crisis peak of ~$4.11/gallon equals nearly $5.00 in today's money.
 The Iran 2026 spike has not yet approached that level in real purchasing 
 power terms. When people say gas prices are at historic highs, the data 
 says otherwise.
+
+[View Gas Prices including inflation on Dashboard 3](https://public.tableau.com/views/ShockOilPrices/AtthePump)
 
 ---
 

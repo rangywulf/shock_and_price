@@ -44,17 +44,22 @@ no alternative route for most of this volume.
 
 ---
 
-### Finding 3: Scenario A is Already Off the Table
-As of March 11, 2026, actual Brent prices peaked at $95.74 on Day 4 before 
-pulling back to $89.84 on March 10, then edging back up to $90.98 on March 11. 
-The Quick Resolution scenario (prices retreating to $68) is already falsified 
-by the data. Prices are tracking between the Prolonged Disruption (~$100) and 
-Escalation (~$145) scenarios.
+### Finding 3: The Scenarios Played Out in Real Time
+As of March 11, the Quick Resolution scenario was already falsified. Prices 
+tracked between Prolonged Disruption and Escalation through mid-March, then 
+broke decisively higher. Brent reached nearly $128/barrel on April 2, the 
+highest daily price of the conflict, briefly touching the Escalation scenario 
+ceiling before pulling back.
 
-The partial transit corridor opened on March 9 produced a brief pullback, 
-but wave attacks on at least 3 vessels on March 11 and the new Supreme 
-Leader's vow to keep Hormuz closed until the war ends suggest the disruption 
-is far from over.
+On April 7, Iran agreed to a ceasefire and safe passage through the Strait 
+of Hormuz, roughly two hours before Trump's 8pm ET deadline. Brent dropped 
+more than 15% to $92.21 on the news. The dashboard currently reflects data 
+through April 6. The relief drop will appear in next week's update.
+
+The full arc is now visible in the data: a rapid spike, six weeks of elevated 
+prices between $95 and $128, and a sharp relief drop on ceasefire news. 
+Whether prices stabilize here or drift back up depends on how quickly Hormuz 
+traffic actually resumes.
 
 [View the Iran 2026 Scenario Projections on Dashboard 2](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
 
@@ -123,8 +128,8 @@ vulnerability scores are composite indices and represent structural exposure,
 not short term price sensitivity. Inflation adjustment uses monthly CPI from 
 FRED with February 2026 as the base period.
 
-Data reflects EIA prices through March 11, 2026. This project was built 
+Data reflects EIA prices through April 6, 2026. This project was built 
 during the active conflict period and represents a snapshot analysis 
 rather than a live tracker.
 
-Last updated: March 18, 2026.
+Last updated: April 8, 2026.

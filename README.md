@@ -17,9 +17,10 @@ US-Israel conflict with Iran and the first-ever closure of the Strait of Hormuz.
 - The 2026 US-Israel war on Iran produced the fastest oil price spike in 
   30 years of data, peaking in just 4 days
 - The previous record was the Ukraine invasion at 12 days
-- Brent crude peaked at $95.74 on Day 4 before briefly pulling back, then 
-  climbed to $101.04 on March 16, entering Prolonged Disruption territory
-- Scenario A (quick resolution) is already falsified — prices never retreated
+- Brent crude peaked at nearly $128/barrel on April 2, 2026, before a 
+  ceasefire on April 7 triggered a 15% single-session drop to $92.21
+- US retail gas crossed $4.00/gallon on March 31 and reached $4.12 by 
+  April 6 — the first time above $4 since 2022
 - Asia-Pacific countries face the highest vulnerability to a prolonged 
   Strait of Hormuz disruption
 - Brent crude price changes take approximately one week to show up at the 
@@ -59,7 +60,8 @@ assumed speeds. Country vulnerability scores are composite indices of oil
 exposure, LNG exposure and pipeline alternatives. Inflation adjustment uses 
 monthly CPI from FRED with February 2026 as the base period.
 
-Data reflects EIA prices through March 16, 2026.
+Data reflects EIA prices through April 6, 2026. Ceasefire announced April 7. 
+Dashboard will reflect post-ceasefire prices in next week's update.
 
 ## Tools
 Python (pandas, matplotlib, numpy) | Tableau Public

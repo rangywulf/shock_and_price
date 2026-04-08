@@ -2,7 +2,7 @@
 
 **Project:** Geopolitical Crises and Oil Markets, 1993-2026
 **Author:** Jessica Stubbs
-**Last Updated:** March 19, 2026
+**Last Updated:** April 8, 2026
 
 ---
 
@@ -35,9 +35,9 @@ of the Strait of Hormuz, through which 20% of global oil and LNG flows daily.
 | Events analyzed | 8 geopolitical shocks, 1993-2026 |
 | Fastest spike | Iran 2026, peak in 4 days |
 | Previous record | Ukraine 2022, peak in 12 days |
-| Brent peak | $95.74 on March 6, 2026 |
-| Latest Brent price | $101.04 on March 16, 2026 |
-| US retail gas (week of Mar 16) | $3.72/gallon |
+| Brent peak | $128/barrel on April 2, 2026 |
+| Ceasefire drop | $92.21 on April 7, 2026 (-15% in one session) |
+| US retail gas (week of Apr 6) | $4.12/gallon |
 | Most vulnerable countries | South Korea, Japan, Pakistan, Taiwan, Singapore |
 | Weeks for Brent to reach the pump | 1 week (r = 0.54 at lag 1) |
 | Most expensive gas in real terms | 2008, not 2026 |
@@ -46,12 +46,20 @@ of the Strait of Hormuz, through which 20% of global oil and LNG flows daily.
 
 ## What the Data Shows Right Now
 
-As of March 16, 2026 Brent crude has crossed $100 for the first time since 
-the conflict began, closing at $101.04 and entering Prolonged Disruption 
-territory. The quick resolution scenario is already ruled out by the data. 
-The new Supreme Leader has vowed to keep the Strait of Hormuz closed until 
-the war ends, and wave attacks on shipping on March 11 confirmed the 
-disruption is far from over.
+On April 7, 2026, Iran agreed to a ceasefire and safe passage through the 
+Strait of Hormuz, roughly two hours before Trump's 8pm ET deadline. Brent 
+dropped more than 15% to $92.21 on the news, the largest single-session 
+relief drop of the conflict.
+
+The full arc is now visible: prices spiked to nearly $128/barrel on April 2, 
+six weeks of sustained disruption between $95 and $128, then a sharp drop 
+on ceasefire news. US retail gas crossed $4.00/gallon on March 31 and 
+reached $4.12 by April 6. In real terms, it still hasn't matched the 2008 
+peak.
+
+Whether prices stabilize or drift back up depends on how quickly Hormuz 
+traffic actually resumes. The dashboard will reflect the April 7 drop in 
+next week's data update.
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Project:** Geopolitical Crises and Oil Markets, 1993-2026
 **Author:** Jessica Stubbs
-**Last Updated:** April 8, 2026
+**Last Updated:** May 7, 2026
 
 ---
 
@@ -35,9 +35,9 @@ of the Strait of Hormuz, through which 20% of global oil and LNG flows daily.
 | Events analyzed | 8 geopolitical shocks, 1993-2026 |
 | Fastest spike | Iran 2026, peak in 4 days |
 | Previous record | Ukraine 2022, peak in 12 days |
-| Brent peak | $128/barrel on April 2, 2026 |
+| Brent peak | ~$128/barrel on April 2, 2026 |
 | Ceasefire drop | $92.21 on April 7, 2026 (-15% in one session) |
-| US retail gas (week of Apr 6) | $4.12/gallon |
+| US retail gas (week of May 4) | $4.45/gallon |
 | Most vulnerable countries | South Korea, Japan, Pakistan, Taiwan, Singapore |
 | Weeks for Brent to reach the pump | 1 week (r = 0.54 at lag 1) |
 | Most expensive gas in real terms | 2008, not 2026 |
@@ -46,20 +46,21 @@ of the Strait of Hormuz, through which 20% of global oil and LNG flows daily.
 
 ## What the Data Shows Right Now
 
-On April 7, 2026, Iran agreed to a ceasefire and safe passage through the 
-Strait of Hormuz, roughly two hours before Trump's 8pm ET deadline. Brent 
-dropped more than 15% to $92.21 on the news, the largest single-session 
-relief drop of the conflict.
+## What the Data Shows Right Now
 
-The full arc is now visible: prices spiked to nearly $128/barrel on April 2, 
-six weeks of sustained disruption between $95 and $128, then a sharp drop 
-on ceasefire news. US retail gas crossed $4.00/gallon on March 31 and 
-reached $4.12 by April 6. In real terms, it still hasn't matched the 2008 
-peak.
+The April 7 ceasefire produced a sharp one-session drop in Brent to $92.21, 
+but the Strait of Hormuz never fully reopened. The ceasefire was not 
+implemented, tanker traffic remained far below pre-war levels, and prices 
+re-escalated through April and into May.
 
-Whether prices stabilize or drift back up depends on how quickly Hormuz 
-traffic actually resumes. The dashboard will reflect the April 7 drop in 
-next week's data update.
+On May 4, Trump launched Operation Project Freedom, a US Navy mission to 
+escort merchant ships through Hormuz. Iran responded with drones and 
+missiles. Oil spiked 6%. Trump paused the operation on May 6 citing 
+progress toward a final agreement.
+
+US retail gas hit $4.45/gallon the week of May 4, the highest of the 
+conflict. In real terms it still hasn't matched the 2008 peak, but the 
+gap is narrowing. The conflict is ongoing and unresolved as of May 7.
 
 ---
 

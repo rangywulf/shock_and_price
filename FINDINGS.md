@@ -48,18 +48,18 @@ no alternative route for most of this volume.
 As of March 11, the Quick Resolution scenario was already falsified. Prices 
 tracked between Prolonged Disruption and Escalation through mid-March, then 
 broke decisively higher. Brent reached nearly $128/barrel on April 2, the 
-highest daily price of the conflict, briefly touching the Escalation scenario 
-ceiling before pulling back.
+highest daily price of the conflict.
 
-On April 7, Iran agreed to a ceasefire and safe passage through the Strait 
-of Hormuz, roughly two hours before Trump's 8pm ET deadline. Brent dropped 
-more than 15% to $92.21 on the news. The dashboard currently reflects data 
-through April 6. The relief drop will appear in next week's update.
+On April 7, Iran agreed to a ceasefire, and Brent dropped more than 15% to 
+$92.21. But the Strait never fully reopened. The ceasefire was not 
+implemented, tanker traffic remained far below pre-war levels, and prices 
+re-escalated through April and into May. On May 4, Trump launched Operation 
+Project Freedom to escort ships through Hormuz. Iran responded with drones 
+and missiles. Trump paused the operation on May 6 citing progress toward a 
+final agreement.
 
-The full arc is now visible in the data: a rapid spike, six weeks of elevated 
-prices between $95 and $128, and a sharp relief drop on ceasefire news. 
-Whether prices stabilize here or drift back up depends on how quickly Hormuz 
-traffic actually resumes.
+As of May 7 the conflict remains unresolved and prices remain elevated well 
+above the Prolonged Disruption scenario ceiling.
 
 [View the Iran 2026 Scenario Projections on Dashboard 2](https://public.tableau.com/app/profile/jess.stubbs/viz/ShockOilPrices/Iran2026#1)
 
@@ -102,7 +102,7 @@ true cost of a crisis begins before the first headline.
 ### Finding 6: Brent Price Changes Take One Week to Reach the Pump
 Lag correlation analysis across 1,719 weekly observations shows that the 
 correlation between Brent and US retail gasoline price changes jumps from 
-0.21 at zero lag to 0.54 at a one-week lag, then drops off sharply. 
+0.21 at zero lag to 0.55 at a one-week lag, then drops off sharply. 
 
 When oil prices spike, expect to feel it at the gas station the following 
 week, not the same day.
@@ -110,7 +110,7 @@ week, not the same day.
 ---
 
 ### Finding 7: In Real Terms, 2008 Was Worse Than 2026
-Adjusting US retail gasoline prices to February 2026 dollars, the 2008 
+Adjusting US retail gasoline prices to March 2026 dollars, the 2008 
 financial crisis peak of ~$4.11/gallon equals nearly $5.00 in today's money. 
 The Iran 2026 spike has not yet approached that level in real purchasing 
 power terms. When people say gas prices are at historic highs, the data 
@@ -126,10 +126,10 @@ direct comparison across different price environments. Scenario projections
 are calibrated from historical events rather than assumed speeds. Country 
 vulnerability scores are composite indices and represent structural exposure, 
 not short term price sensitivity. Inflation adjustment uses monthly CPI from 
-FRED with February 2026 as the base period.
+FRED with March 2026 as the base period.
 
-Data reflects EIA prices through April 6, 2026. This project was built 
+Data reflects EIA prices through May 4, 2026. This project was built 
 during the active conflict period and represents a snapshot analysis 
 rather than a live tracker.
 
-Last updated: April 8, 2026.
+Last updated: May 7, 2026.

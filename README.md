@@ -17,15 +17,16 @@ US-Israel conflict with Iran and the first-ever closure of the Strait of Hormuz.
 - The 2026 US-Israel war on Iran produced the fastest oil price spike in 
   30 years of data, peaking in just 4 days
 - The previous record was the Ukraine invasion at 12 days
-- Brent crude peaked at nearly $128/barrel on April 2, 2026, before a 
-  ceasefire on April 7 triggered a 15% single-session drop to $92.21
-- US retail gas crossed $4.00/gallon on March 31 and reached $4.12 by 
-  April 6 — the first time above $4 since 2022
+- Brent crude peaked at nearly $128/barrel on April 2, 2026. The April 7 
+  ceasefire triggered a 15% drop to $92.21 but the Strait never fully 
+  reopened. Prices re-escalated and the conflict remains unresolved as of May 7
+- US retail gas hit $4.45/gallon the week of May 4, the highest of the 
+  conflict — the first time above $4 since 2022
 - Asia-Pacific countries face the highest vulnerability to a prolonged 
   Strait of Hormuz disruption
 - Brent crude price changes take approximately one week to show up at the 
   US pump, confirmed by lag correlation analysis (strongest correlation at 
-  1-week lag, r = 0.544)
+  1-week lag, r = 0.549)
 - Gas price spikes since 1993 consistently trace back to wars, sanctions, 
   and supply shocks rather than domestic policy or presidential terms
 - In inflation-adjusted terms, the 2008 financial crisis peak remains the 
@@ -58,10 +59,9 @@ prices to 100 at the event date and tracking percentage changes over a 90 day
 window. Scenario projections are calibrated from historical events rather than 
 assumed speeds. Country vulnerability scores are composite indices of oil 
 exposure, LNG exposure and pipeline alternatives. Inflation adjustment uses 
-monthly CPI from FRED with February 2026 as the base period.
+monthly CPI from FRED with March 2026 as the base period.
 
-Data reflects EIA prices through April 6, 2026. Ceasefire announced April 7. 
-Dashboard will reflect post-ceasefire prices in next week's update.
+Data reflects EIA prices through May 4, 2026.
 
 ## Tools
 Python (pandas, matplotlib, numpy) | Tableau Public
